@@ -1,3 +1,9 @@
+github.com/carrot-systems/csl-configuration-client v1.0.0 h1:J7N4sP66ZyHHZ9lkGLJICT5sbjJHyQ6dIWR9bmcYZDk=
+github.com/carrot-systems/csl-configuration-client v1.0.0/go.mod h1:VX3DyK57dhMBloh6AVsORtiru+zdyH3UxMhcK/glghw=
+github.com/carrot-systems/csl-discovery-client v1.0.2 h1:VxpgnbPZ9/VNsa1SEJqkkTwOYTIUi643d9IIlQdYYf8=
+github.com/carrot-systems/csl-discovery-client v1.0.2/go.mod h1:hchmUCJ0nFhtfBv2FpuqeL70y2RdQj/bZ5QpkYrsHhw=
+github.com/carrot-systems/csl-env v1.0.0 h1:/vuFDvmbOq+T3LP/wAWbeABgEfAAO6RLzdyXWA0zakc=
+github.com/carrot-systems/csl-env v1.0.0/go.mod h1:rQlzoapcGNMUBz2hGV9g7+Wzik3tWtioTcyI6lTHv3M=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
@@ -16,6 +22,8 @@ github.com/go-playground/validator/v10 v10.4.1/go.mod h1:nlOn6nFhuKACm19sB/8EGNn
 github.com/golang/protobuf v1.3.3 h1:gyjaxf+svBWX08ZjK86iN9geUJF0H6gp2IRKX6Nf6/I=
 github.com/golang/protobuf v1.3.3/go.mod h1:vzj43D7+SQXF/4pzW/hwtAqwc6iTitCiVSaWz5lYuqw=
 github.com/google/gofuzz v1.0.0/go.mod h1:dBl0BpW6vV/+mYPU4Po3pmUjxk6FQPldtuIdl/M65Eg=
+github.com/joho/godotenv v1.3.0 h1:Zjp+RcGpHhGlrMbJzXTrZZPrWj+1vfm90La1wgB6Bhc=
+github.com/joho/godotenv v1.3.0/go.mod h1:7hK45KPybAkOC6peb+G5yklZfMxEjkZhHbwpqxOKXbg=
 github.com/json-iterator/go v1.1.9 h1:9yzud/Ht36ygwatGx56VwCZtlI/2AD15T1X2sjSuGns=
 github.com/json-iterator/go v1.1.9/go.mod h1:KdQUCv79m/52Kvf8AW2vK1V8akMuk1QjK/uOdHXbAo4=
 github.com/leodido/go-urn v1.2.0 h1:hpXL4XnriNwQ/ABnpepYM/1vCLWNDfUNts8dX3xTG6Y=
