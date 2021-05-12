@@ -21,6 +21,7 @@ func NewServer(config config.GinConfig) GinServer {
 
 	return server
 }
+
 func (server GinServer) Start() {
 	if server.Config.Tls {
 		httpsServer := http.Server{
