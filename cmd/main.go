@@ -16,13 +16,13 @@ func main() {
 	discovery := discoveryClient.NewClient()
 	err := discovery.Register("core")
 	if err != nil {
-		log.Fatalln(err.Error())
+		log.Println(err.Error())
 		return
 	}
 	configuration := configurationClient.NewClient(discovery)
 	err = configuration.LoadConfiguration()
 	if err != nil {
-		log.Fatalln(err.Error())
+		log.Println(err.Error())
 		return
 	}
 
